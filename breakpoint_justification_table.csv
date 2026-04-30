@@ -1,0 +1,6 @@
+Test,BP1_Result,BP1_Detail,BP2_Result,BP2_Detail
+Chow Test (mean),Reject H₀ ✓,p=0.0066,Accept H₀ ✗,p=0.1718
+Levene Test (variance),Reject H₀ ✓,p=0.0000,Reject H₀ ✓,p=0.0043
+Mann-Whitney U (distrib.),Reject H₀ ✓,p=0.0096,Reject H₀ ✓,p=0.0000
+ARCH-LM (both sides),Both ARCH ✓,"p_before=0.0000, p_after=0.0000",Both ARCH ✓,"p_before=0.0000, p_after=0.0000"
+Proximity to data-driven,✓ (6.1mo),Nearest: 2014-06-27,✓ (7.1mo),Nearest: 2019-05-31
